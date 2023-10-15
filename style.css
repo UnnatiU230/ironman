@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.black{
+    background-color: black;
+    height: 700px;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10p;
+    
+}
+.one{
+    height: 680px;
+    width: 270px;
+    background-color: rgb(27, 25, 25);
+    border-radius: 20px;
+    margin-left: 30px;
+    
+    
+}
+.Image{
+    margin-left: 25px;
+    margin-top: 40px;
+    border-radius: 120px;
+    
+}
+.tony{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin-top:5px;
+    color: rgb(29, 22, 22);
+    margin-left: 90px;
+}
+button{
+    background-color: black;
+    height: 40px;
+    width: 220px;
+    border-radius: 25px;
+    color: rgb(81, 66, 66);
+    margin-left: 25px;
+    margin-top: 20px;
+    border: black;
+    
+}
+.flex-container{
+    width: 100%;
+    height: auto;
+ 
+    
+
+}
+.flex-box{
+    width: 1200px;
+    height: 340px;
+    background-color: rgb(27, 25, 25);
+    border-radius: 20px;
+    margin-left: 20px;
+    display: flex;
+
+}
+.flex-boxx{
+    width: 1200px;
+    height: 325px;
+    background-color: rgb(27, 25, 25);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 15px;
+    display: flex;
+    
+}
+.box{
+    width: 100%;
+    height: auto;
+    display: flex;
+    
+}
+
+.flex{
+    width:600px;
+    height: 300px;
+    background-color: rgb(27, 25, 25);
+    color: #f5f5dc;
+    margin: 10px;
+    margin-right: 20px;
+   
+    
+    
+    
+}
+h3{
+    margin-left: 100px;
+}
+
+p{
+    text-align: justify;
+    padding-left: 10px;
+    font-size: 15px;
+    width: 400px;
+    color: gray;
+    
+}
+.read{
+    background-color: rgb(27, 25, 25);
+    height: 40px;
+    width: 220px;
+    border-radius: 25px;
+    color: rgb(255, 255, 255);
+    margin-left: 25px;
+    margin-top: 20px;
+    border: black;
+    text-decoration: underline;
+    font-size: 15px;
+    
+}
+.Aou{
+    width: 500px;
+    padding-top: 20px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+h3{
+    color: white;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.tbl{
+    width: 60%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    width: 800px;
+    margin-right: 80px;
+    margin-bottom: 60px;
+}
+ 
+.tbl thead{
+    
+    height: 1px;
+    text-align: center;
+     padding-right: 10px;
+     padding-top: 10px;   
+}
+
+.tbl thead tr th{
+    font-size:0.9rem;
+    vertical-align: top;
+    border: 1px solid rgb(81, 66, 66);
+    padding-bottom: 20px;
+    color:  gray;
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 10px;  
+}
+
+.tbl tbody tr td {
+    font-size: 1rem;
+    padding-left: 0.8rem;
+    text-align: left;
+    border: 1px solid rgb(81, 66, 66);
+    color: gray;
+    padding-top: 20px;
+}
+
+
+
+ 
+    
